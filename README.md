@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @tufo09
+- 👀 I’m interested in Python and robots.
+- 🌱 I’m currently learning c/c++.
+- 📫 How to reach me theo.spiele@gmx.at.
