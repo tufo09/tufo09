@@ -1,17 +1,11 @@
-<h1 align="center">Hi 👋, I'm tufo</h1>
+<h1 align="center">Hi, I'm tufo</h1>
 <h3 align="center">someone in school</h3>
 
-- 🔭 I’m currently working on [a robot for the 2024 Robocup Rescue Line Austrian Open](http://github.com/tufo09/RoboNugget)
+- Currently working on message support for audio/video control on my laptop: [control](http://github.com/tufo09/control)
 
 - 🌱 I’m currently learning **Rust**
 
 - 👨‍💻 All of my projects are available at [https://www.github.com/tufo09](https://www.github.com/tufo09)
-
-- 💬 Ask me about **Python**
-
-- 📫 How to reach me **theo.spiele@gmx.at**
-
-- ⚡ Fun fact **I have a dog named Kora**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
