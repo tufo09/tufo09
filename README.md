@@ -3,7 +3,7 @@
 
 - Currently working on message support for audio/video control on my laptop: [control](http://github.com/tufo09/control)
 
-- 🌱 I’m currently learning **Rust**
+- 🌱 I’m currently learning **Rust** and **C++**
 
 - 👨‍💻 All of my projects are available at [https://www.github.com/tufo09](https://www.github.com/tufo09)
 
