@@ -5,6 +5,9 @@
 
 - 🌱 I’m currently learning **Rust** and **C++**
 
+- You can see my Website at [tufo.dev](https://tufo.dev)
+- You can also contact me at [me@tufo.dev](mailto:me@tufo.dev)
+
 - 👨‍💻 All of my projects are available at [https://www.github.com/tufo09](https://www.github.com/tufo09)
 - you can reach me in the fedidverse at: [tufo@catcatnya.com](https://catcatnya.com/@tufo)
 
